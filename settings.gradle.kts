@@ -1,3 +1,34 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        maven("https://jitpack.io")
+        gradlePluginPortal()
+    }
+    resolutionStrategy {
+        eachPlugin {
+            if (requested.id.id == "com.android.library") {
+                useVersion("8.2.0")
+            }
+            if (requested.id.id == "org.jetbrains.kotlin.android") {
+                useVersion("2.1.0")
+            }
+            if (requested.id.id == "com.lagradost.cloudstream3.gradle") {
+                useModule("com.github.recloudstream:gradle:-SNAPSHOT")
+            }
+        }
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven("https://jitpack.io")
+    }
+}
+
 rootProject.name = "CloudstreamPlugins"
 
 // This file sets what projects are included.
@@ -7,7 +38,7 @@ val disabled = listOf<String>()
 
 File(rootDir, ".").eachDir { dir ->
     if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
-        include(dir.name)
+        include(":${dir.name}")
     }
 }
 
