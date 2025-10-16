@@ -1,0 +1,8 @@
+{
+    "name": "TestRepo",
+    "description": "Cloudstream Indonesia Repo",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/plugins.json"
+    ]
+}
