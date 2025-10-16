@@ -2,10 +2,10 @@
     {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/TestPlugins",
+        "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
         "fileSize": 7311,
         "status": 1,
-        "language": "en",
+        "language": "id",
         "authors": [
             "Cloudburst",
             "Luna712"
@@ -14,9 +14,9 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "ExampleProvider",
+        "internalName": "Dutamovie",
         "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/ExampleProvider.cs3",
-        "name": "ExampleProvider"
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Dutamovie.cs3",
+        "name": "Dutamovie"
     }
 ]
