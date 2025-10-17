@@ -1,22 +1,42 @@
 [
     {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4319/4319030.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
-        "fileSize": 7311,
+        "fileSize": 25994,
         "status": 1,
         "language": "id",
         "authors": [
-            "Cloudburst",
-            "Luna712"
+            "Asm0d3usX"
         ],
         "tvTypes": [
-            "Movie"
+            "Movie",
+            "Semi"
         ],
         "version": 1,
-        "internalName": "Dutamovie",
-        "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Dutamovie.cs3",
-        "name": "Dutamovie"
+        "internalName": "Nonton18",
+        "description": "Movie dan Full Semi",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Nonton18.cs3",
+        "name": "Nonton18"
+    },
+    {
+        "iconUrl": "https://static.vecteezy.com/system/resources/previews/016/132/395/non_2x/eighteen-plus-icon-in-comic-style-18-cartoon-illustration-on-white-isolated-background-censored-splash-effect-business-concept-vector.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
+        "fileSize": 25960,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Semi"
+        ],
+        "version": 1,
+        "internalName": "Revenectar",
+        "description": "Movie dan Full Semi",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Revenectar.cs3",
+        "name": "Revenectar"
     }
 ]
