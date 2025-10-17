@@ -1,8 +1,9 @@
 {
     "name": "TestRepo",
     "description": "Cloudstream Indonesia Repo",
+    "iconUrl": "https://cdn-icons-png.freepik.com/512/5432/5432519.png",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/plugins.json"
+        "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/plugins.json"
     ]
 }
