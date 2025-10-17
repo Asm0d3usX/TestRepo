@@ -19,5 +19,26 @@
         "description": "Movie dan Full Semi",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Ravenectar.cs3",
         "name": "Ravenectar"
+    },
+    {
+        "iconUrl": "https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
+        "fileSize": 25960,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AsianDrama",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "MidasXXI",
+        "description": "Movie Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/MidasXXI.cs3",
+        "name": "MidasXXI"
     }
 ]
