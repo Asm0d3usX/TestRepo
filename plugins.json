@@ -10,8 +10,7 @@
             "Asm0d3usX"
         ],
         "tvTypes": [
-            "Movie",
-            "Semi"
+            "Movie"
         ],
         "version": 1,
         "internalName": "Nonton18",
@@ -21,7 +20,7 @@
     },
     {
         "iconUrl": "https://static.vecteezy.com/system/resources/previews/016/132/395/non_2x/eighteen-plus-icon-in-comic-style-18-cartoon-illustration-on-white-isolated-background-censored-splash-effect-business-concept-vector.jpg",
-        "apiVersion": 1,
+        "apiVersion": 2,
         "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
         "fileSize": 25960,
         "status": 1,
@@ -30,10 +29,9 @@
             "Asm0d3usX"
         ],
         "tvTypes": [
-            "Movie",
-            "Semi"
+            "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Revenectar",
         "description": "Movie dan Full Semi",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Revenectar.cs3",
