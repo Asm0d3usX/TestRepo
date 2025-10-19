@@ -4,7 +4,6 @@ Repo ini hanya untuk tester beberapa link baru dan jika sudah berjalan dengan la
  
 ## Tester
 
-Kalian bisa mencoba nya untuk cloudstream repository nya
-Link : https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/repo.json
+Kalian bisa mencoba nya untuk cloudstream repository nya dengan klik link [DISINI](cloudstreamrepo://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/repo.json)
 
 Terimakasih
