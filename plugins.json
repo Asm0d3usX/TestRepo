@@ -21,6 +21,27 @@
         "name": "Anonymous"
     },
     {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/5978/5978100.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
+        "fileSize": 29938,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AsianDrama",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "Unknown",
+        "description": "Japan Movie Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Unknown.cs3",
+        "name": "Unknown"
+    },
+    {
         "iconUrl": "https://cdn-icons-png.flaticon.com/128/6767/6767491.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
