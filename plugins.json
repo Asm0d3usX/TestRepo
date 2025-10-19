@@ -1,12 +1,11 @@
 [
     {
-        "iconUrl": "https://krx18.com/wp-content/uploads/2022/10/krx18A.png",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4123/4123763.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
-        "fileSize": 18989,
-        "jarFileSize": 68984,
+        "fileSize": 19989,
         "status": 1,
-        "language": "en",
+        "language": "id",
         "authors": [
             "Asm0d3usX"
         ],
@@ -15,12 +14,11 @@
             "AsianDrama",
             "TvSeries"
         ],
-        "version": 3,
-        "internalName": "KRX18",
-        "description": "Erotic Adult Movie 18+",
-        "jarUrl": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Krx18.jar",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Krx18.cs3",
-        "name": "KRX18"
+        "version": 2,
+        "internalName": "Anonymous",
+        "description": "Adult Movie 18+",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Anonymous.cs3",
+        "name": "Anonymous"
     },
     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/128/6767/6767491.png",
