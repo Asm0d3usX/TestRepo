@@ -12,11 +12,11 @@
         "tvTypes": [
             "Movie",
             "AsianDrama",
-            "TvSeries"
+            "TVSeries"
         ],
         "version": 2,
         "internalName": "Anonymous",
-        "description": "Adult Movie 18+",
+        "description": "Film Dewasa 18+",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Anonymous.cs3",
         "name": "Anonymous"
     },
@@ -35,7 +35,7 @@
         ],
         "version": 2,
         "internalName": "Unknown",
-        "description": "Japan Movie Subtitle Indonesia",
+        "description": "Film Jepang dengan Subtitle Indonesia",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Unknown.cs3",
         "name": "Unknown"
     },
@@ -52,11 +52,11 @@
         "tvTypes": [
             "Movie",
             "AsianDrama",
-            "TvSeries"
+            "TVSeries"
         ],
         "version": 2,
         "internalName": "Ravenectar",
-        "description": "Movie dan Full Semi",
+        "description": "Film dan Drama Semi",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Ravenectar.cs3",
         "name": "Ravenectar"
     }
