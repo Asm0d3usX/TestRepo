@@ -12,8 +12,7 @@
         "tvTypes": [
             "Movie",
             "AsianDrama",
-            "TVSeries",
-            "Other"
+            "TVSeries"
         ],
         "version": 2,
         "internalName": "Anonymous",
@@ -33,7 +32,7 @@
         ],
         "tvTypes": [
             "Movie",
-            "AsianDrama"
+            "Lainnya"
         ],
         "version": 2,
         "internalName": "Unknown",
