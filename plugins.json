@@ -12,7 +12,8 @@
         "tvTypes": [
             "Movie",
             "AsianDrama",
-            "TVSeries"
+            "TVSeries",
+            "Other"
         ],
         "version": 2,
         "internalName": "Anonymous",
