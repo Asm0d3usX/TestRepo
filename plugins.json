@@ -15,10 +15,10 @@
             "TVSeries"
         ],
         "version": 2,
-        "internalName": "Anonymous",
+        "internalName": "Anonymousun",
         "description": "Film Dewasa 18+",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Unknown.cs3",
-        "name": "Anonymous"
+        "name": "Anonymousun"
     },
     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/2115/2115958.png",
@@ -32,13 +32,14 @@
         ],
         "tvTypes": [
             "Movie",
-            "Lainnya"
+            "AsianDrama",
+            "TVSeries"
         ],
         "version": 2,
-        "internalName": "Unknown",
+        "internalName": "UnknownAnony",
         "description": "Film Jepang dengan Subtitle Indonesia",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Anonymous.cs3",
-        "name": "Unknown"
+        "name": "UnknownAnony"
     },
     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/128/6767/6767491.png",
