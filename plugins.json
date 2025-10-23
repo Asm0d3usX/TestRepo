@@ -1,9 +1,30 @@
 [
     {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4123/4123763.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
+        "fileSize": 26988,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AsianDrama",
+            "TVSeries"
+        ],
+        "version": 2,
+        "internalName": "Anonymous",
+        "description": "Film Dewasa 18+",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Anonymous.cs3",
+        "name": "Anonymous"
+    },
+    {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/2115/2115958.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
-        "fileSize": 29938,
+        "fileSize": 32938,
         "status": 1,
         "language": "id",
         "authors": [
@@ -17,7 +38,28 @@
         "version": 2,
         "internalName": "Unknown",
         "description": "Film Jepang dengan Subtitle Indonesia",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Anonymous.cs3",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Unknown.cs3",
         "name": "Unknown"
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/128/6767/6767491.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/TestRepo",
+        "fileSize": 25960,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AsianDrama",
+            "TVSeries"
+        ],
+        "version": 2,
+        "internalName": "Ravenectar",
+        "description": "Film dan Drama Semi",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/TestRepo/builds/Ravenectar.cs3",
+        "name": "Ravenectar"
     }
 ]
